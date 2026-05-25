@@ -1,17 +1,53 @@
-# provider_task_app
+# Provider Task Manager App
 
-A new Flutter project.
+A Flutter Task Manager application built using Provider State Management.  
+This app allows users to add, delete, and manage daily tasks with real-time UI updates and a clean user interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add New Tasks
+- Delete Tasks
+- Mark Tasks as Completed
+- Real-time UI Updates
+- Provider State Management
+- Task Counter
+- Beautiful UI Design
+- Basic Animations
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Provider Package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## State Management
+
+This project uses Provider instead of setState for better performance, cleaner architecture, and efficient state management.
+
+## Screens Included
+
+- Home Screen
+- Task Management Screen
+
+## How to Run the Project
+
+1. Clone the repository
+2. Run the following command:
+
+```bash
+flutter pub get
+```
+
+3. Start the app:
+
+```bash
+flutter run
+```
+
+## Project Objective
+
+The purpose of this project is to learn and implement Provider State Management in Flutter while improving UI/UX and application performance.
+
+## Author
+
+Anzala Rehman
